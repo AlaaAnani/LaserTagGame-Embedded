@@ -1,6 +1,4 @@
-# Github Repo and Members
-
-[LaserTag Github Repo](https://github.com/AlaaAnani/LaserTagGame-Embedded)
+# LaserTag Embedded Systems Game
 
 Members:
 * Abdulrahman Diaa 900162359
